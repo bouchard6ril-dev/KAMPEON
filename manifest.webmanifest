@@ -8,11 +8,9 @@
   "theme_color": "#0065a8",
   "orientation": "portrait",
   "icons": [
-    {
-      "src": "assets/boucau-face.png",
-      "sizes": "any",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
-}
+  {
+    "src": "assets/kampeon-icon.png",
+    "sizes": "2048x2048",
+    "type": "image/png"
+  }
+]
