@@ -1,0 +1,18 @@
+{
+  "name": "Championnat U13 – Niveau 3 – Poule A",
+  "short_name": "U13 N3 Poule A",
+  "description": "Classement et résultats du championnat U13 Niveau 3 Poule A",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f8fb",
+  "theme_color": "#0065a8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/boucau-face.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
