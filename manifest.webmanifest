@@ -8,9 +8,10 @@
   "theme_color": "#0065a8",
   "orientation": "portrait",
   "icons": [
-  {
-    "src": "assets/kampeon-icon.png",
-    "sizes": "2048x2048",
-    "type": "image/png"
-  }
-]
+    {
+      "src": "assets/kampeon-icon.png",
+      "sizes": "2048x2048",
+      "type": "image/png"
+    }
+  ]
+}
